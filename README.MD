@@ -12,3 +12,5 @@ The following behaviors happen within the the following scala versions:
 
 Tested on MacOS with JDK 8,1,17,19
 
+This is an example for: https://github.com/lampepfl/dotty/issues/16269
+
