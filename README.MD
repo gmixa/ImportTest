@@ -10,7 +10,7 @@ The following behaviors happen within the the following scala versions:
 - 3.1.0 => No Message
 - 3.2.0 => Error Message
 
-Tested on MacOS with JDK 8,1,17,19
+Tested on MacOS with JDK 8,11,17,19
 
 This is an example for: https://github.com/lampepfl/dotty/issues/16269
 
