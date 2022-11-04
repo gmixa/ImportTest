@@ -1,6 +1,6 @@
 # Bug Example #
 launching the script src/untitled.sc in the Scala REPL causes
-causes an Erroor Message with scala 3.2.0
+an Error Message with scala 3.2.0
 
 The following behaviors happen within the the following scala versions:
 
