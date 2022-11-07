@@ -2,7 +2,7 @@
 launching the script src/untitled.sc in the Scala REPL causes
 an Error Message with scala 3.2.0
 
-The following behaviors happen within the the following scala versions:
+The following behaviors happen within the following scala versions:
 
 - 2.12.17 => Success Message
 - 2.13.10 => Success Message
